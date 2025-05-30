@@ -29,9 +29,33 @@
 2. ![alt text](http://gitlab.localdomain/root/netology-ivanov-project/raw/master/img/git2.png)
 
 
+### Задание 2
 
+
+
+.gitlab-ci.yml
 ```
-Поле для вставки кода...
+stages:
+  - build
+  - test
+
+variables:
+  DOCKER_DRIVER: overlay2
+
+build-job:
+  stage: build
+  script:
+    - echo "Собираем проект..."
+    - docker --version
+
+test-job:
+  stage: test
+  script:
+    - echo "Тестируем проект..."
+    - uname -a
+
+2. ![alt text](http://gitlab.localdomain/root/netology-ivanov-project/raw/master/img/git4.png)
+
 ....
 ....
 ....
