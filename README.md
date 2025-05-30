@@ -29,6 +29,9 @@
 2. ![alt text](http://gitlab.localdomain/root/netology-ivanov-project/raw/master/img/git2.png)
 
 
+1. ![alt text](https://github.com/radiomost/gitlab-home-8-03/raw/master/img/git1.png)
+2. ![alt text](https://github.com/radiomost/gitlab-home-8-03/raw/master/img/git2.png)
+
 ### Задание 2
 
 
@@ -59,3 +62,4 @@ test-job:
 ```
 2. ![alt text](http://gitlab.localdomain/root/netology-ivanov-project/raw/master/img/git4.png)
 
+2. ![alt text](https://github.com/radiomost/gitlab-home-8-03/raw/master/img/git4.png)
