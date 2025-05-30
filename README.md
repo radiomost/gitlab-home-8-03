@@ -25,8 +25,8 @@
 ### Задание 1
 
 
-1. ![alt text](https://github.com/radiomost/gitlab-home-8-03/git1.jpg)
-2. ![alt text](https://github.com/radiomost/gitlab-home-8-03/git2.jpg)
+1. ![alt text](https://github.com/radiomost/gitlab-home-8-03/git1.png)
+2. ![alt text](https://github.com/radiomost/gitlab-home-8-03/git2.png)
 
 
 ```
