@@ -28,6 +28,10 @@
 1. ![alt text](https://github.com/radiomost/gitlab-home-8-03/blob/img/git1.png)
 2. ![alt text](https://github.com/radiomost/gitlab-home-8-03/blob/img/git2.png)
 
+3. ![alt text](http://gitlab.localdomain/root/netology-ivanov-project/blob/img/git1.png)
+4. ![alt text](http://gitlab.localdomain/root/netology-ivanov-project/blob/img/git2.png)
+
+
 
 ```
 Поле для вставки кода...
